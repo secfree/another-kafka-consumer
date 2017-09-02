@@ -7,6 +7,5 @@
 ## Usage
 
 ```bash
-python another-kafka-consumer.py --topic test --group test --brokers "127.0.0
-.1:9092" 1000
+python another-kafka-consumer.py --topic test --group test --brokers "127.0.0.1:9092" 1000
 ```
