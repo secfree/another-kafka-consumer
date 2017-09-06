@@ -3,7 +3,7 @@
 ## Feature
 
 1. Get the latest offset
-1. Fetch the last N messages before the latest offset
+1. Fetch the last N(each partition) messages before the latest offset
 
 ## Usage
 
